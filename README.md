@@ -62,7 +62,7 @@ Before you begin, ensure you have the following installed:
 
 ## Demo
 
-You can check the website design at [Natours Demo](https://alens-natours.surge.sh).
+You can check the website design at [Natours Demo](https://alen-natours.netlify.app/).
 
 ## Contributing
 
