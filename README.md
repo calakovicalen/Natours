@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
 **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/Natours.git
+    git clone https://github.com/calakovicalen/Natours
     cd Natours
     ```
 
